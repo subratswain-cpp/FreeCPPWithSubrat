@@ -7,7 +7,7 @@
 
 /// College Library ====> C++ Library
 
-// cout => console output => For printing anything on the screen
+// cout => console/charecter output => For printing anything on the screen
 
 // # Minimal C++
 #include <iostream> // Header for cout
